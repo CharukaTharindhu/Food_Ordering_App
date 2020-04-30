@@ -156,7 +156,7 @@ public class add_category extends AppCompatActivity {
                 }
             }
         });
-        alertDialog.setPositiveButton("NO", new DialogInterface.OnClickListener() {
+        alertDialog.setNegativeButton("NO", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialogInterface, int i) {
 
