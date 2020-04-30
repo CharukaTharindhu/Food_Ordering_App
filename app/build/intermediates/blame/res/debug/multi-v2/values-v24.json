@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "C:\\Users\\Nawod\\Downloads\\Food_Ordering_App-master333\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\216bf54e29b136a74aba8c4d5367564b\\support-media-compat-27.1.1\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Nawod\\.gradle\\caches\\transforms-2\\files-2.1\\fc236f2f015d5e9579d2a35eda447653\\support-media-compat-27.1.1\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\bc23893e8879da09d6f278c702cc8efc\\appcompat-v7-27.1.1\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Nawod\\.gradle\\caches\\transforms-2\\files-2.1\\41efb954ddfa05b4cae1eb63b0efb25e\\appcompat-v7-27.1.1\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

@@ -1,4 +1,0 @@
-#Thu Apr 30 12:45:35 IST 2020
-base.0=C\:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

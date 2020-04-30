@@ -5,245 +5,232 @@
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
-8        android:minSdkVersion="19"
-8-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml
+8        android:minSdkVersion="15"
+8-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="27" />
-9-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml
+9-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:5:5-67
-11-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:5:22-64
+11-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:5:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3a8304acad0bf11cc5d96879cf47dac0\firebase-analytics-10.2.0\AndroidManifest.xml:21:5-78
-12-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3a8304acad0bf11cc5d96879cf47dac0\firebase-analytics-10.2.0\AndroidManifest.xml:21:22-76
-13    <uses-permission android:name="android.permission.WAKE_LOCK" />
-13-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3a8304acad0bf11cc5d96879cf47dac0\firebase-analytics-10.2.0\AndroidManifest.xml:22:5-67
-13-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3a8304acad0bf11cc5d96879cf47dac0\firebase-analytics-10.2.0\AndroidManifest.xml:22:22-65
+12-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\06651faaf829e1ed8c087d04399a4bf1\firebase-analytics-12.0.1\AndroidManifest.xml:24:5-79
+12-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\06651faaf829e1ed8c087d04399a4bf1\firebase-analytics-12.0.1\AndroidManifest.xml:24:22-76
+13    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+13-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\06651faaf829e1ed8c087d04399a4bf1\firebase-analytics-12.0.1\AndroidManifest.xml:25:5-68
+13-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\06651faaf829e1ed8c087d04399a4bf1\firebase-analytics-12.0.1\AndroidManifest.xml:25:22-65
 14    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
-14-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:22:5-81
-14-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:22:22-79
+14-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\e518c53ad597a59ae77e58025393a370\firebase-iid-12.0.1\AndroidManifest.xml:26:5-82
+14-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\e518c53ad597a59ae77e58025393a370\firebase-iid-12.0.1\AndroidManifest.xml:26:22-79
 15
 16    <permission
-16-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:24:5-109
+16-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\e518c53ad597a59ae77e58025393a370\firebase-iid-12.0.1\AndroidManifest.xml:28:5-30:47
 17        android:name="com.example.hp.myapplication.permission.C2D_MESSAGE"
-17-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:24:17-71
+17-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\e518c53ad597a59ae77e58025393a370\firebase-iid-12.0.1\AndroidManifest.xml:29:9-63
 18        android:protectionLevel="signature" />
-18-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:24:72-107
+18-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\e518c53ad597a59ae77e58025393a370\firebase-iid-12.0.1\AndroidManifest.xml:30:9-44
 19
 20    <uses-permission android:name="com.example.hp.myapplication.permission.C2D_MESSAGE" />
-20-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:26:5-78
-20-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:26:22-76
+20-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\e518c53ad597a59ae77e58025393a370\firebase-iid-12.0.1\AndroidManifest.xml:32:5-79
+20-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\e518c53ad597a59ae77e58025393a370\firebase-iid-12.0.1\AndroidManifest.xml:32:22-76
 21
 22    <application
-22-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:7:5-46:19
+22-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:7:5-45:19
 23        android:allowBackup="true"
-23-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:8:9-35
+23-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:8:9-35
 24        android:debuggable="true"
 25        android:icon="@mipmap/ic_launcher"
-25-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:9:9-43
+25-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:9:9-43
 26        android:label="@string/app_name"
-26-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:10:9-41
+26-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:10:9-41
 27        android:roundIcon="@mipmap/ic_launcher_round"
-27-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:11:9-54
+27-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:11:9-54
 28        android:supportsRtl="true"
-28-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:12:9-35
+28-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:12:9-35
 29        android:testOnly="true"
 30        android:theme="@style/AppTheme" >
-30-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:13:9-40
+30-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:13:9-40
 31        <activity android:name="com.example.hp.myapplication.Admin_Caregory_List" />
-31-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:14:9-66
-31-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:14:19-54
+31-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:14:9-66
+31-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:14:19-54
 32
 33        <service
-33-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:16:9-19:39
+33-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:16:9-19:39
 34            android:name="com.example.hp.myapplication.Service.ListenOrder"
-34-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:17:13-48
+34-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:17:13-48
 35            android:enabled="true"
-35-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:18:13-35
+35-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:18:13-35
 36            android:exported="true" />
-36-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:19:13-36
+36-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:19:13-36
 37
 38        <activity android:name="com.example.hp.myapplication.order_status" />
-38-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:21:9-50
-38-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:21:19-47
+38-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:21:9-50
+38-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:21:19-47
 39        <activity android:name="com.example.hp.myapplication.newFoodList" />
-39-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:22:9-49
-39-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:22:19-46
+39-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:22:9-49
+39-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:22:19-46
 40        <activity android:name="com.example.hp.myapplication.add_category" />
-40-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:23:9-50
-40-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:23:19-47
+40-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:23:9-50
+40-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:23:19-47
 41        <activity android:name="com.example.hp.myapplication.Admin" />
-41-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:24:9-43
-41-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:24:19-40
+41-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:24:9-43
+41-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:24:19-40
 42        <activity android:name="com.example.hp.myapplication.OrderStatus" />
-42-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:25:9-49
-42-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:25:19-46
+42-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:25:9-49
+42-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:25:19-46
 43        <activity android:name="com.example.hp.myapplication.WelcomeActivity" >
-43-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:26:9-32:20
-43-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:26:19-50
+43-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:26:9-32:20
+43-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:26:19-50
 44            <intent-filter>
-44-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:27:13-31:29
+44-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:27:13-31:29
 45                <action android:name="android.intent.action.MAIN" />
-45-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:28:17-69
-45-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:28:25-66
+45-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:28:17-69
+45-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:28:25-66
 46
 47                <category android:name="android.intent.category.LAUNCHER" />
-47-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:30:17-77
-47-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:30:27-74
+47-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:30:17-77
+47-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:30:27-74
 48            </intent-filter>
 49        </activity>
 50        <activity
-50-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:33:9-36:47
+50-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:33:9-36:47
 51            android:name="com.example.hp.myapplication.MainActivity"
-51-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:34:13-41
+51-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:34:13-41
 52            android:label="@string/title_activity_welcome"
-52-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:35:13-59
+52-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:35:13-59
 53            android:theme="@style/AppTheme" />
-53-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:36:13-44
+53-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:36:13-44
 54        <activity android:name="com.example.hp.myapplication.SignIn" />
-54-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:37:9-44
-54-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:37:19-41
+54-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:37:9-44
+54-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:37:19-41
 55        <activity android:name="com.example.hp.myapplication.SignUp" />
-55-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:38:9-44
-55-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:38:19-41
+55-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:38:9-44
+55-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:38:19-41
 56        <activity
-56-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:39:9-42:47
+56-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:39:9-42:47
 57            android:name="com.example.hp.myapplication.Home"
-57-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:40:13-33
+57-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:40:13-33
 58            android:label="@string/title_activity_home"
-58-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:41:13-56
+58-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:41:13-56
 59            android:theme="@style/AppTheme" />
-59-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:42:13-44
+59-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:42:13-44
 60        <activity android:name="com.example.hp.myapplication.FoodList" />
-60-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:43:9-46
-60-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:43:19-43
-61        <activity android:name="com.example.hp.myapplication.FoodDetail" />
-61-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:44:9-48
-61-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:44:19-45
-62        <activity android:name="com.example.hp.myapplication.Cart" />
-62-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:45:9-42
-62-->C:\Users\User\Desktop\MAD Project 2\Food_Ordering_App-master\app\src\main\AndroidManifest.xml:45:19-39
-63
-64        <meta-data
-64-->[com.firebaseui:firebase-ui-database:1.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3cd7352d7637f6ad7d24aec4a23b9774\firebase-ui-database-1.2.0\AndroidManifest.xml:14:9-16:69
-65            android:name="com.google.android.gms.version"
-65-->[com.firebaseui:firebase-ui-database:1.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3cd7352d7637f6ad7d24aec4a23b9774\firebase-ui-database-1.2.0\AndroidManifest.xml:15:13-58
-66            android:value="@integer/google_play_services_version" />
-66-->[com.firebaseui:firebase-ui-database:1.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3cd7352d7637f6ad7d24aec4a23b9774\firebase-ui-database-1.2.0\AndroidManifest.xml:16:13-66
-67
-68        <provider
-68-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cba71147b301f07be360142ea7312e24\picasso-2.71828\AndroidManifest.xml:8:9-11:40
-69            android:name="com.squareup.picasso.PicassoProvider"
-69-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cba71147b301f07be360142ea7312e24\picasso-2.71828\AndroidManifest.xml:9:13-64
-70            android:authorities="com.example.hp.myapplication.com.squareup.picasso"
-70-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cba71147b301f07be360142ea7312e24\picasso-2.71828\AndroidManifest.xml:10:13-72
-71            android:exported="false" />
-71-->[com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cba71147b301f07be360142ea7312e24\picasso-2.71828\AndroidManifest.xml:11:13-37
-72
-73        <receiver
-73-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3a8304acad0bf11cc5d96879cf47dac0\firebase-analytics-10.2.0\AndroidManifest.xml:25:7-26:18
-74            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-74-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3a8304acad0bf11cc5d96879cf47dac0\firebase-analytics-10.2.0\AndroidManifest.xml:25:17-89
-75            android:enabled="true"
-75-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3a8304acad0bf11cc5d96879cf47dac0\firebase-analytics-10.2.0\AndroidManifest.xml:25:90-112
-76            android:exported="false" >
-76-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3a8304acad0bf11cc5d96879cf47dac0\firebase-analytics-10.2.0\AndroidManifest.xml:25:113-137
-77        </receiver>
-78        <receiver
-78-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3a8304acad0bf11cc5d96879cf47dac0\firebase-analytics-10.2.0\AndroidManifest.xml:27:7-31:18
-79            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
-79-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3a8304acad0bf11cc5d96879cf47dac0\firebase-analytics-10.2.0\AndroidManifest.xml:27:17-104
-80            android:enabled="true"
-80-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3a8304acad0bf11cc5d96879cf47dac0\firebase-analytics-10.2.0\AndroidManifest.xml:27:162-184
+60-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:43:9-46
+60-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:43:19-43
+61        <activity android:name="com.example.hp.myapplication.Cart" />
+61-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:44:9-42
+61-->C:\Users\Nawod\Downloads\Food_Ordering_App-master333\app\src\main\AndroidManifest.xml:44:19-39
+62
+63        <meta-data
+63-->[com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\db82455fe4cdc6f5c3d89e119cc159ba\firebase-ui-database-1.2.0\AndroidManifest.xml:14:9-16:69
+64            android:name="com.google.android.gms.version"
+64-->[com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\db82455fe4cdc6f5c3d89e119cc159ba\firebase-ui-database-1.2.0\AndroidManifest.xml:15:13-58
+65            android:value="@integer/google_play_services_version" />
+65-->[com.firebaseui:firebase-ui-database:1.2.0] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\db82455fe4cdc6f5c3d89e119cc159ba\firebase-ui-database-1.2.0\AndroidManifest.xml:16:13-66
+66
+67        <provider
+67-->[com.squareup.picasso:picasso:2.71828] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\0b47c0ba4514ef7be81d90d3792e9772\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+68            android:name="com.squareup.picasso.PicassoProvider"
+68-->[com.squareup.picasso:picasso:2.71828] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\0b47c0ba4514ef7be81d90d3792e9772\picasso-2.71828\AndroidManifest.xml:9:13-64
+69            android:authorities="com.example.hp.myapplication.com.squareup.picasso"
+69-->[com.squareup.picasso:picasso:2.71828] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\0b47c0ba4514ef7be81d90d3792e9772\picasso-2.71828\AndroidManifest.xml:10:13-72
+70            android:exported="false" />
+70-->[com.squareup.picasso:picasso:2.71828] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\0b47c0ba4514ef7be81d90d3792e9772\picasso-2.71828\AndroidManifest.xml:11:13-37
+71
+72        <receiver
+72-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\06651faaf829e1ed8c087d04399a4bf1\firebase-analytics-12.0.1\AndroidManifest.xml:28:9-32:20
+73            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+73-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\06651faaf829e1ed8c087d04399a4bf1\firebase-analytics-12.0.1\AndroidManifest.xml:29:13-85
+74            android:enabled="true"
+74-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\06651faaf829e1ed8c087d04399a4bf1\firebase-analytics-12.0.1\AndroidManifest.xml:30:13-35
+75            android:exported="false" >
+75-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\06651faaf829e1ed8c087d04399a4bf1\firebase-analytics-12.0.1\AndroidManifest.xml:31:13-37
+76        </receiver>
+77        <receiver
+77-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\06651faaf829e1ed8c087d04399a4bf1\firebase-analytics-12.0.1\AndroidManifest.xml:33:9-41:20
+78            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+78-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\06651faaf829e1ed8c087d04399a4bf1\firebase-analytics-12.0.1\AndroidManifest.xml:34:13-100
+79            android:enabled="true"
+79-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\06651faaf829e1ed8c087d04399a4bf1\firebase-analytics-12.0.1\AndroidManifest.xml:35:13-35
+80            android:exported="true"
+80-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\06651faaf829e1ed8c087d04399a4bf1\firebase-analytics-12.0.1\AndroidManifest.xml:36:13-36
 81            android:permission="android.permission.INSTALL_PACKAGES" >
-81-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3a8304acad0bf11cc5d96879cf47dac0\firebase-analytics-10.2.0\AndroidManifest.xml:27:105-161
+81-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\06651faaf829e1ed8c087d04399a4bf1\firebase-analytics-12.0.1\AndroidManifest.xml:37:13-69
 82            <intent-filter>
-82-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3a8304acad0bf11cc5d96879cf47dac0\firebase-analytics-10.2.0\AndroidManifest.xml:28:11-30:27
+82-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\06651faaf829e1ed8c087d04399a4bf1\firebase-analytics-12.0.1\AndroidManifest.xml:38:13-40:29
 83                <action android:name="com.android.vending.INSTALL_REFERRER" />
-83-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3a8304acad0bf11cc5d96879cf47dac0\firebase-analytics-10.2.0\AndroidManifest.xml:29:15-76
-83-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3a8304acad0bf11cc5d96879cf47dac0\firebase-analytics-10.2.0\AndroidManifest.xml:29:23-74
+83-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\06651faaf829e1ed8c087d04399a4bf1\firebase-analytics-12.0.1\AndroidManifest.xml:39:17-79
+83-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\06651faaf829e1ed8c087d04399a4bf1\firebase-analytics-12.0.1\AndroidManifest.xml:39:25-76
 84            </intent-filter>
 85        </receiver>
 86
 87        <service
-87-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3a8304acad0bf11cc5d96879cf47dac0\firebase-analytics-10.2.0\AndroidManifest.xml:32:7-137
+87-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\06651faaf829e1ed8c087d04399a4bf1\firebase-analytics-12.0.1\AndroidManifest.xml:43:9-46:40
 88            android:name="com.google.android.gms.measurement.AppMeasurementService"
-88-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3a8304acad0bf11cc5d96879cf47dac0\firebase-analytics-10.2.0\AndroidManifest.xml:32:16-87
+88-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\06651faaf829e1ed8c087d04399a4bf1\firebase-analytics-12.0.1\AndroidManifest.xml:44:13-84
 89            android:enabled="true"
-89-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3a8304acad0bf11cc5d96879cf47dac0\firebase-analytics-10.2.0\AndroidManifest.xml:32:88-110
+89-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\06651faaf829e1ed8c087d04399a4bf1\firebase-analytics-12.0.1\AndroidManifest.xml:45:13-35
 90            android:exported="false" />
-90-->[com.google.firebase:firebase-analytics:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\3a8304acad0bf11cc5d96879cf47dac0\firebase-analytics-10.2.0\AndroidManifest.xml:32:111-135
-91
-92        <receiver
-92-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:30:9-36:20
-93            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-93-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:30:19-84
-94            android:exported="true"
-94-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:30:85-108
-95            android:permission="com.google.android.c2dm.permission.SEND" >
-95-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:30:109-169
-96            <intent-filter>
-96-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:31:13-35:29
-97                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-97-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:32:17-80
-97-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:32:25-78
-98                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
-98-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:33:17-85
-98-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:33:25-83
-99
-100                <category android:name="com.example.hp.myapplication" />
-100-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:34:17-60
-100-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:34:27-58
-101            </intent-filter>
-102        </receiver>
-103        <!--
-104 Internal (not exported) receiver used by the app to start its own exported services
-105             without risk of being spoofed.
-106        -->
-107        <receiver
-107-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:40:9-119
-108            android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
-108-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:40:19-92
-109            android:exported="false" />
-109-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:40:93-117
-110        <!--
-111 FirebaseInstanceIdService performs security checks at runtime,
-112             no need for explicit permissions despite exported="true"
-113        -->
-114        <service
-114-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:44:9-48:19
-115            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
-115-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:44:18-82
-116            android:exported="true" >
-116-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:44:83-106
-117            <intent-filter android:priority="-500" >
-117-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:45:13-47:29
-117-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:45:28-51
-118                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
-118-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:46:17-79
-118-->[com.google.firebase:firebase-iid:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\4d1d6c0aaa0cc8b37b8e69dfb6e995b2\firebase-iid-10.2.0\AndroidManifest.xml:46:25-77
-119            </intent-filter>
-120        </service>
-121
-122        <provider
-122-->[com.google.firebase:firebase-common:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\8901f24fd1de9b9c178250a3626d24b7\firebase-common-10.2.0\AndroidManifest.xml:6:9-194
-123            android:name="com.google.firebase.provider.FirebaseInitProvider"
-123-->[com.google.firebase:firebase-common:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\8901f24fd1de9b9c178250a3626d24b7\firebase-common-10.2.0\AndroidManifest.xml:6:79-143
-124            android:authorities="com.example.hp.myapplication.firebaseinitprovider"
-124-->[com.google.firebase:firebase-common:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\8901f24fd1de9b9c178250a3626d24b7\firebase-common-10.2.0\AndroidManifest.xml:6:19-78
-125            android:exported="false"
-125-->[com.google.firebase:firebase-common:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\8901f24fd1de9b9c178250a3626d24b7\firebase-common-10.2.0\AndroidManifest.xml:6:144-168
-126            android:initOrder="100" />
-126-->[com.google.firebase:firebase-common:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\8901f24fd1de9b9c178250a3626d24b7\firebase-common-10.2.0\AndroidManifest.xml:6:169-192
-127
-128        <activity
-128-->[com.google.android.gms:play-services-base:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a586942ed214d6bbcf9473639ce28f43\play-services-base-10.2.0\AndroidManifest.xml:19:9-172
-129            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-129-->[com.google.android.gms:play-services-base:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a586942ed214d6bbcf9473639ce28f43\play-services-base-10.2.0\AndroidManifest.xml:19:19-85
-130            android:exported="false"
-130-->[com.google.android.gms:play-services-base:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a586942ed214d6bbcf9473639ce28f43\play-services-base-10.2.0\AndroidManifest.xml:19:146-170
-131            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-131-->[com.google.android.gms:play-services-base:10.2.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a586942ed214d6bbcf9473639ce28f43\play-services-base-10.2.0\AndroidManifest.xml:19:86-145
-132    </application>
-133
-134</manifest>
+90-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\06651faaf829e1ed8c087d04399a4bf1\firebase-analytics-12.0.1\AndroidManifest.xml:46:13-37
+91        <service
+91-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\06651faaf829e1ed8c087d04399a4bf1\firebase-analytics-12.0.1\AndroidManifest.xml:47:9-51:72
+92            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+92-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\06651faaf829e1ed8c087d04399a4bf1\firebase-analytics-12.0.1\AndroidManifest.xml:48:13-87
+93            android:enabled="true"
+93-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\06651faaf829e1ed8c087d04399a4bf1\firebase-analytics-12.0.1\AndroidManifest.xml:49:13-35
+94            android:exported="false"
+94-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\06651faaf829e1ed8c087d04399a4bf1\firebase-analytics-12.0.1\AndroidManifest.xml:50:13-37
+95            android:permission="android.permission.BIND_JOB_SERVICE" />
+95-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\06651faaf829e1ed8c087d04399a4bf1\firebase-analytics-12.0.1\AndroidManifest.xml:51:13-69
+96
+97        <receiver
+97-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\e518c53ad597a59ae77e58025393a370\firebase-iid-12.0.1\AndroidManifest.xml:35:9-44:20
+98            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+98-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\e518c53ad597a59ae77e58025393a370\firebase-iid-12.0.1\AndroidManifest.xml:36:13-78
+99            android:exported="true"
+99-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\e518c53ad597a59ae77e58025393a370\firebase-iid-12.0.1\AndroidManifest.xml:37:13-36
+100            android:permission="com.google.android.c2dm.permission.SEND" >
+100-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\e518c53ad597a59ae77e58025393a370\firebase-iid-12.0.1\AndroidManifest.xml:38:13-73
+101            <intent-filter>
+101-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\e518c53ad597a59ae77e58025393a370\firebase-iid-12.0.1\AndroidManifest.xml:39:13-43:29
+102                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+102-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\e518c53ad597a59ae77e58025393a370\firebase-iid-12.0.1\AndroidManifest.xml:40:17-81
+102-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\e518c53ad597a59ae77e58025393a370\firebase-iid-12.0.1\AndroidManifest.xml:40:25-78
+103
+104                <category android:name="com.example.hp.myapplication" />
+104-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\e518c53ad597a59ae77e58025393a370\firebase-iid-12.0.1\AndroidManifest.xml:42:17-61
+104-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\e518c53ad597a59ae77e58025393a370\firebase-iid-12.0.1\AndroidManifest.xml:42:27-58
+105            </intent-filter>
+106        </receiver>
+107        <!--
+108             FirebaseInstanceIdService performs security checks at runtime,
+109             no need for explicit permissions despite exported="true"
+110        -->
+111        <service
+111-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\e518c53ad597a59ae77e58025393a370\firebase-iid-12.0.1\AndroidManifest.xml:50:9-56:19
+112            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+112-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\e518c53ad597a59ae77e58025393a370\firebase-iid-12.0.1\AndroidManifest.xml:51:13-77
+113            android:exported="true" >
+113-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\e518c53ad597a59ae77e58025393a370\firebase-iid-12.0.1\AndroidManifest.xml:52:13-36
+114            <intent-filter android:priority="-500" >
+114-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\e518c53ad597a59ae77e58025393a370\firebase-iid-12.0.1\AndroidManifest.xml:53:13-55:29
+114-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\e518c53ad597a59ae77e58025393a370\firebase-iid-12.0.1\AndroidManifest.xml:53:28-51
+115                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+115-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\e518c53ad597a59ae77e58025393a370\firebase-iid-12.0.1\AndroidManifest.xml:54:17-80
+115-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\e518c53ad597a59ae77e58025393a370\firebase-iid-12.0.1\AndroidManifest.xml:54:25-77
+116            </intent-filter>
+117        </service>
+118
+119        <provider
+119-->[com.google.firebase:firebase-common:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\efe522f0c184954943721241e8c102db\firebase-common-12.0.1\AndroidManifest.xml:8:9-12:39
+120            android:name="com.google.firebase.provider.FirebaseInitProvider"
+120-->[com.google.firebase:firebase-common:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\efe522f0c184954943721241e8c102db\firebase-common-12.0.1\AndroidManifest.xml:9:13-77
+121            android:authorities="com.example.hp.myapplication.firebaseinitprovider"
+121-->[com.google.firebase:firebase-common:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\efe522f0c184954943721241e8c102db\firebase-common-12.0.1\AndroidManifest.xml:10:13-72
+122            android:exported="false"
+122-->[com.google.firebase:firebase-common:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\efe522f0c184954943721241e8c102db\firebase-common-12.0.1\AndroidManifest.xml:11:13-37
+123            android:initOrder="100" />
+123-->[com.google.firebase:firebase-common:12.0.1] C:\Users\Nawod\.gradle\caches\transforms-2\files-2.1\efe522f0c184954943721241e8c102db\firebase-common-12.0.1\AndroidManifest.xml:12:13-36
+124    </application>
+125
+126</manifest>
