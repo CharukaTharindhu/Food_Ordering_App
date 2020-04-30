@@ -1,26 +1,26 @@
 package com.example.hp.myapplication.ViewHolder;
 
 import android.support.v7.widget.RecyclerView;
+import android.view.ContextMenu;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.example.hp.myapplication.Common.Common;
 import com.example.hp.myapplication.Interface.ItemClickListener;
+import com.example.hp.myapplication.Model.Food;
 import com.example.hp.myapplication.R;
 
-public class FoodViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
+import java.text.BreakIterator;
+
+public class FoodViewHolder extends RecyclerView.ViewHolder implements
+        View.OnClickListener,
+        View.OnCreateContextMenuListener{
 
     public TextView food_name;
     public ImageView food_image;
 
     private ItemClickListener itemClickListener;
-
-    public void setItemClickListener(ItemClickListener itemClickListener) {
-        this.itemClickListener = itemClickListener;
-
-
-    }
-
     public FoodViewHolder(View itemView) {
         super(itemView);
 
@@ -28,10 +28,25 @@ public class FoodViewHolder extends RecyclerView.ViewHolder implements View.OnCl
         food_image = (ImageView)itemView.findViewById(R.id.food_image);
 
         itemView.setOnClickListener(this);
+        itemView.setOnCreateContextMenuListener(this);
+    }
+
+    public void setItemClickListener(ItemClickListener itemClickListener)
+    {
+        this.itemClickListener = itemClickListener;
     }
 
     @Override
-    public void onClick(View v) {
+    public void onClick(View v)
+    {
         itemClickListener.onClick(v,getAdapterPosition(),false);
+    }
+
+    @Override
+    public void onCreateContextMenu(ContextMenu menu, View v, ContextMenu.ContextMenuInfo menuInfo) {
+
+        menu.setHeaderTitle("Select the Action");
+        menu.add(0,0,getAdapterPosition(), Common.UPDATE);
+        menu.add(0,1,getAdapterPosition(), Common.DELETE);
     }
 }

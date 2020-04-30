@@ -1,0 +1,538 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_home.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\app_bar_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order_status.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\activity_order_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_access_time_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_access_time_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_shopping_cart_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_restaurant_menu_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_restaurant_menu_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome_slide2.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\welcome_slide2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add_shopping_cart_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_reorder_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_reorder_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_restaurant_menu_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_restaurant_menu_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_home.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_new_food_list.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\activity_new_food_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_access_time_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_access_time_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_home_drawer.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_shopping_cart_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_category.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\activity_add_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_order_layout.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\order_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_reorder_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_reorder_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_delete_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_new_manu_layout.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\add_new_manu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_exit_to_app_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_exit_to_app_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order_status2.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\activity_order_status2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_new_food_layout.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\add_new_food_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_header.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_travel.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\drawable\\ic_travel.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_attach_money_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_attach_money_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_admin_background.jpg.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\drawable-v21\\admin_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_shopping_cart_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_shopping_cart_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_reorder_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_reorder_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_restaurant_menu_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_restaurant_menu_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_movie.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\drawable\\ic_movie.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_new_order_layout.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\new_order_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome_slide3.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\welcome_slide3.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_food_item.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\food_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_shopping_cart_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_access_time_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_access_time_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delete_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_playlist_add_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_playlist_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_restaurant_menu_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_restaurant_menu_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_shopping_cart_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_restaurant_menu_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_restaurant_menu_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_playlist_add_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_playlist_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_add_shopping_cart_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_delete_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_delete_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_delete_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_reorder_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_reorder_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_admin_img.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\drawable-v21\\admin_img.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_food_list.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\activity_food_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add_shopping_cart_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_add_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_attach_money_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_attach_money_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_my_bg.jpg.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\drawable\\my_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_playlist_add_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_playlist_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_shopping_cart_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add_shopping_cart_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_playlist_add_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_playlist_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_admin_heder.jpg.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\drawable-v21\\admin_heder.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_reorder_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_reorder_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_update_order_layout.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\update_order_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_access_time_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_access_time_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_restaurant_menu_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_restaurant_menu_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_cart_layout.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\cart_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_access_time_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_access_time_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_attach_money_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_attach_money_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_access_time_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_access_time_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin__caregory__list.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\activity_admin__caregory__list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_manu_item.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\manu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_discount.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\drawable\\ic_discount.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_delete_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_home.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\content_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_reorder_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_reorder_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_list.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\menu_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_add_shopping_cart_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add_shopping_cart_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_delete_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_attach_money_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_attach_money_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_food.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\drawable\\ic_food.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add_shopping_cart_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_home.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\nav_header_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_access_time_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_access_time_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_playlist_add_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_playlist_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_manage.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_playlist_add_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_playlist_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_restaurant_menu_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_restaurant_menu_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_food_detail.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\activity_food_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_shopping_cart_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_attach_money_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_attach_money_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_reorder_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_reorder_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_attach_money_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_attach_money_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_home2.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\app_bar_home2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_drawer_manu.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\menu\\drawer_manu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_nav.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\drawable-v21\\nav.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_share.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_attach_money_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_attach_money_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_playlist_add_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_playlist_add_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome_slide4.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\welcome_slide4.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome_slide1.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\layout\\welcome_slide1.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_delete_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_send.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add_shopping_cart_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\MAD Project 2\\Food_Ordering_App-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add_shopping_cart_black_24dp.png"
+    }
+]

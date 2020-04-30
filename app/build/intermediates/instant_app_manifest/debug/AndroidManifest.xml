@@ -6,7 +6,7 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="15"
+        android:minSdkVersion="19"
         android:targetSdkVersion="27" />
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -29,6 +29,18 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.hp.myapplication.Admin_Caregory_List" />
+
+        <service
+            android:name="com.example.hp.myapplication.Service.ListenOrder"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name="com.example.hp.myapplication.order_status" />
+        <activity android:name="com.example.hp.myapplication.newFoodList" />
+        <activity android:name="com.example.hp.myapplication.add_category" />
+        <activity android:name="com.example.hp.myapplication.Admin" />
+        <activity android:name="com.example.hp.myapplication.OrderStatus" />
         <activity android:name="com.example.hp.myapplication.WelcomeActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -84,6 +96,7 @@
             android:permission="com.google.android.c2dm.permission.SEND" >
             <intent-filter>
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
 
                 <category android:name="com.example.hp.myapplication" />
             </intent-filter>
@@ -112,6 +125,11 @@
             android:authorities="com.example.hp.myapplication.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
     </application>
 
 </manifest>

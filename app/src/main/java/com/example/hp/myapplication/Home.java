@@ -1,11 +1,22 @@
 package com.example.hp.myapplication;
 
+import android.accessibilityservice.AccessibilityService;
+import android.app.Fragment;
+import android.app.ProgressDialog;
+import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
+import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
+import android.support.annotation.RequiresApi;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.view.LayoutInflater;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -24,37 +35,51 @@ import com.example.hp.myapplication.Interface.ItemClickListener;
 import com.example.hp.myapplication.Model.Category;
 import com.example.hp.myapplication.ViewHolder.MenuViewHolder;
 import com.firebase.ui.database.FirebaseRecyclerAdapter;
+import com.google.android.gms.tasks.OnFailureListener;
+import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.storage.FirebaseStorage;
+import com.google.firebase.storage.OnProgressListener;
+import com.google.firebase.storage.StorageReference;
+import com.google.firebase.storage.UploadTask;
+import com.rengwuxian.materialedittext.MaterialEditText;
 import com.squareup.picasso.Picasso;
 
+import java.util.UUID;
+
+import info.hoang8f.widget.FButton;
 
 
 public class Home extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
-    FirebaseDatabase database;
-    DatabaseReference category;
-    TextView txtFullName;
 
+    TextView txtFullName;
+    DrawerLayout drawer;
+
+    //View
     RecyclerView recycle_menu;
     RecyclerView.LayoutManager layoutManager;
 
+    private final int PICK_IMAGE_REQUEST = 71;
+    //FireBase
+    FirebaseDatabase database;
+    DatabaseReference category;
     FirebaseRecyclerAdapter<Category,MenuViewHolder> adapter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        toolbar.setTitle("Menu");
 
+        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        toolbar.setTitle("MenuId");
         setSupportActionBar(toolbar);
 
-        //Firebase:
+        //Init Firebase:
         database = FirebaseDatabase.getInstance();
         category = database.getReference("Category");
-
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
@@ -65,7 +90,7 @@ public class Home extends AppCompatActivity
             }
         });
 
-        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
+        drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
                 this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
         drawer.addDrawerListener(toggle);
@@ -75,7 +100,6 @@ public class Home extends AppCompatActivity
         navigationView.setNavigationItemSelectedListener(this);
 
         //Set Name for User
-
         View headerview = navigationView.getHeaderView(0);
         txtFullName = (TextView)headerview.findViewById(R.id.txtFullName);
         txtFullName.setText(Common.currentUser.getName());
@@ -93,6 +117,7 @@ public class Home extends AppCompatActivity
             @Override
             protected void populateViewHolder(MenuViewHolder viewHolder, Category model, int position) {
                 viewHolder.txtMenuName.setText(model.getName());
+                //Picasso.with(Home.this).load(model.getImage()).into(viewHolder.imageView);
                 //Picasso.get(getApplicationContext()).load(model.getImage()).into(viewHolder.imageView);
                 Glide.with(getBaseContext()).load(model.getImage()).into(viewHolder.imageView);
 
@@ -101,13 +126,16 @@ public class Home extends AppCompatActivity
                     @Override
                     public void onClick(View view, int position, boolean isLongClick) {
                         Toast.makeText(Home.this, ""+clickItem.getName(), Toast.LENGTH_SHORT).show();
+                        //Get catogary id and send to new activity
                         Intent foodlist = new Intent(Home.this,FoodList.class);
+                        //becouse categoryId is key,so we just get key of this item
                         foodlist.putExtra("CategoryId",adapter.getRef(position).getKey());
                         startActivity(foodlist);
                     }
                 });
             }
         };
+        adapter.notifyDataSetChanged();
         recycle_menu.setAdapter(adapter);
     }
 
@@ -141,13 +169,21 @@ public class Home extends AppCompatActivity
         int id = item.getItemId();
 
         if (id == R.id.nav_menu) {
-            // Handle the camera action
+
         } else if (id == R.id.nav_cart) {
+            Intent cartIntent = new Intent(Home.this,Cart.class);
+            startActivity(cartIntent);
 
         } else if (id == R.id.nav_orders) {
+            Intent ordrIntent = new Intent(Home.this,OrderStatus.class);
+            startActivity(ordrIntent);
 
         } else if (id == R.id.nav_log_out) {
 
+            //Log out
+            Intent signIn = new Intent(Home.this,SignIn.class);
+            signIn.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
+            startActivity(signIn);
         } else if (id == R.id.nav_share) {
 
         } else if (id == R.id.nav_send) {

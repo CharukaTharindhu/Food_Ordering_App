@@ -42,7 +42,7 @@ public class FoodDetail extends AppCompatActivity {
         //Firebase
 
         database = FirebaseDatabase.getInstance();
-        foods = database.getReference("Foods");
+        foods = database.getReference("Food");
 
         //init view
         numberButton = (ElegantNumberButton)findViewById(R.id.number_button);
@@ -63,7 +63,6 @@ public class FoodDetail extends AppCompatActivity {
         food_description = (TextView)findViewById(R.id.food_description);
         food_name = (TextView)findViewById(R.id.food_name);
         food_price = (TextView)findViewById(R.id.food_price);
-
         food_image = (ImageView)findViewById(R.id.img_food);
 
         collapsingToolbarLayout = (CollapsingToolbarLayout)findViewById(R.id.collapsing);
@@ -86,10 +85,12 @@ public class FoodDetail extends AppCompatActivity {
             public void onDataChange(DataSnapshot dataSnapshot) {
                 currentFood = dataSnapshot.getValue(Food.class);
                 //set Image
-                Glide.with(getBaseContext()).load(currentFood.getImage()).into(food_image);
+                Glide.with(getBaseContext()).load(currentFood.getImage())
+                        .into(food_image);
 
                 collapsingToolbarLayout.setTitle(currentFood.getName());
-                food_price.setText(currentFood.getName());
+                food_price.setText(currentFood.getPrice());
+                food_name.setText(currentFood.getName());
                 food_description.setText(currentFood.getDescription());
             }
 

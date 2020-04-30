@@ -7,6 +7,9 @@
     <string name="SignUp">signup</string>
     <string name="slogan">No matter where you are we will find you and feed you.</string>
 
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+
     <string name="slide_1_title">Hello Food!</string>
     <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
 
@@ -28,4 +31,9 @@
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
+
+    <string-array name="userType">
+        <item>User</item>
+        <item>Admin</item>
+    </string-array>
 </resources>
